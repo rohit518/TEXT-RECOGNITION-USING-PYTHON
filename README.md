@@ -45,7 +45,7 @@ using git command or by downloading the zip file.
 Now forward to the downloaded directory.Run the runner.py file.
 
 ```bash
-  python runner.py
+python runner.py
 ```
  After the tkinter ui loads select the option which best describes the image type
  - scene detection(for license plate recognition,sign boards,name plates)
