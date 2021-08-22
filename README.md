@@ -47,7 +47,12 @@ Now forward to the downloaded directory.Run the runner.py file.
 ```bash
   python runner.py
 ```
+ After the tkinter ui loads select the option which best describes the image type
+ - scene detection(for license plate recognition,sign boards,name plates)
+ - document scanner(for images of pdf type)
+ - 2d image scanner(for skewed images)
  
+ Then select the image from the image browser and press Enter. This will load the image and the results.
   
 ## Acknowledgements
 Thanks to the youtube channel by-[
